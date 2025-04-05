@@ -1,0 +1,3225 @@
+.ninja-gig-website-design-r-6,
+.ninja-gig-website-design-r-6 * {
+  box-sizing: border-box;
+}
+.ninja-gig-website-design-r-6 {
+  background: #ffffff;
+  height: 7783px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-3467892 {
+  background: linear-gradient(
+    86.73deg,
+    rgba(27, 141, 255, 1) 0%,
+    rgba(46, 178, 246, 1) 100%
+  );
+  opacity: 0.2;
+  width: 1924px;
+  height: 1918px;
+  position: absolute;
+  left: calc(50% - -960px);
+  top: 3508px;
+  box-shadow: 37px 32px 250px 0px rgba(0, 0, 0, 0.1);
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.rectangle-3467902 {
+  background: linear-gradient(
+    86.73deg,
+    rgba(27, 141, 255, 1) 0%,
+    rgba(46, 178, 246, 1) 100%
+  );
+  opacity: 0.2;
+  width: 1924px;
+  height: 537px;
+  position: absolute;
+  left: calc(50% - -962px);
+  top: 7246px;
+  box-shadow: 37px 32px 250px 0px rgba(0, 0, 0, 0.1);
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.rectangle-3467901 {
+  background: rgba(21, 41, 96, 0.05);
+  width: 1920px;
+  height: 920px;
+  position: absolute;
+  left: 0px;
+  top: 5426px;
+}
+.group-1577707586 {
+  height: auto;
+  position: absolute;
+  left: 30px;
+  top: 30px;
+  overflow: visible;
+}
+.vector {
+  opacity: 0.2;
+  width: 474px;
+  height: 329px;
+  position: absolute;
+  left: calc(50% - 264px);
+  top: 334px;
+  overflow: visible;
+}
+.vector2 {
+  opacity: 0.2;
+  width: 474px;
+  height: 329px;
+  position: absolute;
+  left: calc(50% - -489px);
+  top: 710px;
+  overflow: visible;
+}
+.group-5 {
+  position: absolute;
+  inset: 0;
+}
+.features {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 100%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 125px);
+  top: 93px;
+}
+.home {
+  color: #0089d1;
+  text-align: left;
+  font-family: "Satoshi-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 100%;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 215px);
+  top: 93px;
+}
+.reviews {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 100%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 16px);
+  top: 93px;
+}
+.jobs {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 100%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -90px);
+  top: 93px;
+}
+.demo {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 100%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -167px);
+  top: 93px;
+}
+.group-1577707588 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-3467878 {
+  background: #f4b425;
+  border-radius: 10px;
+  width: 173px;
+  height: 60px;
+  position: absolute;
+  left: 1603px;
+  top: 69px;
+}
+.group-1577707666 {
+  width: 108px;
+  height: 30px;
+  position: static;
+}
+.sign-up {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Medium", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 500;
+  position: absolute;
+  left: 1636px;
+  top: 84px;
+}
+.group-1577707587 {
+  width: 26px;
+  height: 26px;
+  position: absolute;
+  left: 1718px;
+  top: 86px;
+  overflow: visible;
+}
+.group-1577707677 {
+  position: absolute;
+  inset: 0;
+}
+.ninja-gig-01-2 {
+  width: 508px;
+  height: 144px;
+  position: absolute;
+  left: 144px;
+  top: 7326px;
+  object-fit: cover;
+}
+.group-1577707627 {
+  width: 115px;
+  height: 235px;
+  position: static;
+}
+.quick-links {
+  color: #000000;
+  text-align: left;
+  font-family: "Aeonik-Medium", sans-serif;
+  font-size: 22px;
+  line-height: 130%;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - -47px);
+  top: 7376px;
+}
+.group-1577707557 {
+  width: 70px;
+  height: 190px;
+  position: static;
+}
+.blog {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -47px);
+  top: 7421px;
+}
+.about {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -47px);
+  top: 7465px;
+}
+.faq-s {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -47px);
+  top: 7509px;
+}
+.privacy {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -47px);
+  top: 7553px;
+}
+.contact {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -47px);
+  top: 7597px;
+}
+.group-1577707289 {
+  width: 143px;
+  height: 233px;
+  position: static;
+}
+.group-1577707288 {
+  width: 143px;
+  height: 188px;
+  position: static;
+}
+.group-1577705708 {
+  width: 142px;
+  height: 38px;
+  position: static;
+}
+.group-1577705707 {
+  width: 38px;
+  height: 38px;
+  position: static;
+}
+._001-facebook {
+  width: 8.69px;
+  height: 17.37px;
+  position: absolute;
+  left: 1282px;
+  top: 7431px;
+  overflow: visible;
+}
+.ellipse-30 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #0486cb;
+  border-width: 1px;
+  width: 38px;
+  height: 38px;
+  position: absolute;
+  left: 1268px;
+  top: 7421px;
+}
+.facebook {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 1324px;
+  top: 7433px;
+}
+.group-1577705709 {
+  width: 115px;
+  height: 38px;
+  position: static;
+}
+.group-1577705706 {
+  width: 38px;
+  height: 38px;
+  position: static;
+}
+._003-twitter {
+  width: 0.94%;
+  height: 0.18%;
+  position: absolute;
+  right: 32.5%;
+  left: 66.56%;
+  bottom: 3.04%;
+  top: 96.78%;
+  overflow: visible;
+}
+.ellipse-302 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #0486cb;
+  border-width: 1px;
+  width: 38px;
+  height: 38px;
+  position: absolute;
+  left: 1268px;
+  top: 7521px;
+}
+.twitter {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 1324px;
+  top: 7533px;
+}
+.group-1577707287 {
+  width: 130px;
+  height: 38px;
+  position: static;
+}
+._003-twitter2 {
+  width: 0.86%;
+  height: 0.15%;
+  position: absolute;
+  right: 32.54%;
+  left: 66.6%;
+  bottom: 2.4%;
+  top: 97.45%;
+  overflow: visible;
+}
+.ellipse-303 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #0486cb;
+  border-width: 1px;
+  width: 38px;
+  height: 38px;
+  position: absolute;
+  left: 1268px;
+  top: 7571px;
+}
+.you-tube {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 1324px;
+  top: 7583px;
+}
+.group-1577705746 {
+  width: 143px;
+  height: 38px;
+  position: static;
+}
+._004-instagram {
+  width: 16.26px;
+  height: 16.26px;
+  position: absolute;
+  left: 1279.2px;
+  top: 7482px;
+  overflow: visible;
+}
+.ellipse-304 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #0486cb;
+  border-width: 1px;
+  width: 38px;
+  height: 38px;
+  position: absolute;
+  left: 1268px;
+  top: 7471px;
+}
+.instagram {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 1324px;
+  top: 7483px;
+}
+.follow-us-on {
+  color: #000000;
+  text-align: left;
+  font-family: "Aeonik-Medium", sans-serif;
+  font-size: 22px;
+  line-height: 130%;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - -308px);
+  top: 7376px;
+}
+.group-1577707629 {
+  width: 1632px;
+  height: 44px;
+  position: static;
+}
+.line-283 {
+  margin-top: -1px;
+  border-width: 1px 0 0 0;
+  border-style: solid;
+  border-image: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0) 2.500000037252903%,
+    rgba(255, 255, 255, 0.8) 58.49999785423279%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  border-image-slice: 1;
+  opacity: 0.5;
+  width: 1632px;
+  height: 0px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 7699px;
+}
+.copyright-2024-ninja-gig-all-rights-reserved {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 100%;
+  font-weight: 400;
+  position: absolute;
+  left: 144px;
+  top: 7729px;
+}
+.privacy-policy-terms-and-conditions {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 100%;
+  font-weight: 400;
+  position: absolute;
+  left: 1445px;
+  top: 7729px;
+}
+.vector3 {
+  opacity: 0.1;
+  width: 475px;
+  height: 476px;
+  position: absolute;
+  left: 1538px;
+  top: 7246px;
+  overflow: visible;
+}
+.vector4 {
+  opacity: 0.3;
+  width: 474px;
+  height: 329px;
+  position: absolute;
+  left: calc(50% - 417px);
+  top: 7356px;
+  overflow: visible;
+}
+.vector5 {
+  opacity: 0.2;
+  width: 474px;
+  height: 329px;
+  position: absolute;
+  left: calc(50% - -540px);
+  top: 6939px;
+  overflow: visible;
+}
+.vector6 {
+  opacity: 0.2;
+  width: 474px;
+  height: 329px;
+  position: absolute;
+  left: calc(50% - 382px);
+  top: 3098px;
+  overflow: visible;
+}
+.vector7 {
+  opacity: 0.2;
+  width: 474px;
+  height: 329px;
+  position: absolute;
+  left: calc(50% - 72px);
+  top: 2513px;
+  overflow: visible;
+}
+.vector8 {
+  opacity: 0.2;
+  width: 474px;
+  height: 329px;
+  position: absolute;
+  left: calc(50% - -458px);
+  top: 4966px;
+  overflow: visible;
+}
+.group-1577707676 {
+  position: absolute;
+  inset: 0;
+}
+.group-1577707607 {
+  width: 2012px;
+  height: 336px;
+  position: static;
+}
+.group-1577707606 {
+  width: 2012px;
+  height: 336px;
+  position: static;
+}
+.group-1577707602 {
+  width: 485px;
+  height: 336px;
+  position: static;
+}
+.rectangle-3467883 {
+  background: #fdca40;
+  border-radius: 20px;
+  width: 485px;
+  height: 336px;
+  position: absolute;
+  left: 629px;
+  top: 4936.89px;
+  box-shadow: 37px 32px 250px 0px rgba(244, 180, 37, 0.3);
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.unlike-most-expensive-online-job-application-software-sites-that-charge-fees-per-job-posting-ninja-gig-offers-unlimited-applications-with-no-hidden-fees-ninja-gig-s-unlimited-applications-are-perfect-for-a-wide-variety-of-industries-especially-those-with-higher-turnover-rates {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 786px);
+  top: 5084.89px;
+  width: 412px;
+  height: 148px;
+}
+._49-month-unlimited-use {
+  color: #152960;
+  text-align: left;
+  font-family: "Aeonik-Bold", sans-serif;
+  font-size: 26px;
+  line-height: 130%;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 676px);
+  top: 4984.89px;
+  width: 174px;
+}
+.rectangle-3467887 {
+  background: #ffffff;
+  border-radius: 6px;
+  width: 80px;
+  height: 68px;
+  position: absolute;
+  left: 174px;
+  top: 4976.89px;
+}
+.vector9 {
+  width: 2.6%;
+  height: 0.6%;
+  position: absolute;
+  right: 87.55%;
+  left: 9.84%;
+  bottom: 35.31%;
+  top: 64.09%;
+  overflow: visible;
+}
+.group-1577707605 {
+  width: 485px;
+  height: 336px;
+  position: static;
+}
+.rectangle-3467890 {
+  background: #ffffff;
+  border-radius: 20px;
+  width: 485px;
+  height: 336px;
+  position: absolute;
+  left: 1647px;
+  top: 4936.89px;
+  box-shadow: 37px 32px 250px 0px rgba(0, 0, 0, 0.1);
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.need-to-pause-your-employment-contract-due-to-seasonal-employment-lulls-it-s-no-problem-with-ninja-gig-we-ll-allow-you-to-turn-off-your-subscription-as-needed {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -232px);
+  top: 5084.89px;
+  width: 375px;
+  height: 94px;
+}
+.turn-it-off-or-on {
+  color: #000000;
+  text-align: left;
+  font-family: "Aeonik-Bold", sans-serif;
+  font-size: 26px;
+  line-height: 130%;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - -342px);
+  top: 4984.89px;
+  width: 135px;
+}
+.rectangle-3467891 {
+  background: #ddf3ff;
+  border-radius: 6px;
+  width: 80px;
+  height: 68px;
+  position: absolute;
+  left: 1192px;
+  top: 4976.89px;
+}
+.group-1577707632 {
+  width: 2.03%;
+  height: 0.58%;
+  position: absolute;
+  right: 34.82%;
+  left: 63.15%;
+  bottom: 35.33%;
+  top: 64.09%;
+  overflow: visible;
+}
+.group-1577707603 {
+  width: 485px;
+  height: 336px;
+  position: static;
+}
+.rectangle-3467888 {
+  background: #ffffff;
+  border-radius: 20px;
+  width: 485px;
+  height: 336px;
+  position: absolute;
+  left: 1138px;
+  top: 4936.89px;
+  box-shadow: 37px 32px 250px 0px rgba(0, 0, 0, 0.1);
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.do-you-want-your-company-s-job-descriptions-and-applications-to-get-noticed-ninja-gig-will-help-push-your-jobs-directly-to-big-job-boards-including-job-postings-on-indeed-monster-jooble-google-jobs-and-more {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 277px);
+  top: 5084.89px;
+  width: 412px;
+  height: 121px;
+}
+.free-job-board-syndication {
+  color: #000000;
+  text-align: left;
+  font-family: "Aeonik-Bold", sans-serif;
+  font-size: 26px;
+  line-height: 130%;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 167px);
+  top: 4984.89px;
+  width: 183px;
+}
+.rectangle-3467889 {
+  background: #ddf3ff;
+  border-radius: 6px;
+  width: 80px;
+  height: 68px;
+  position: absolute;
+  left: 683px;
+  top: 4976.89px;
+}
+.group-1577707631 {
+  width: 1.85%;
+  height: 0.58%;
+  position: absolute;
+  right: 61.43%;
+  left: 36.72%;
+  bottom: 35.33%;
+  top: 64.09%;
+  overflow: visible;
+}
+.group-1577707604 {
+  width: 485px;
+  height: 336px;
+  position: static;
+}
+.rectangle-34678922 {
+  background: #ffffff;
+  border-radius: 20px;
+  width: 485px;
+  height: 336px;
+  position: absolute;
+  left: 2156px;
+  top: 4936.89px;
+  box-shadow: 37px 32px 250px 0px rgba(0, 0, 0, 0.1);
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.if-you-re-not-fully-satisfied-with-your-free-trial-you-can-cancel-within-14-days-without-any-penalties-or-fees-we-stand-behind-our-guarantee-and-let-you-cancel-at-any-time {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -741px);
+  top: 5084.89px;
+  width: 389px;
+  height: 94px;
+}
+.free-trial {
+  color: #000000;
+  text-align: left;
+  font-family: "Aeonik-Bold", sans-serif;
+  font-size: 26px;
+  line-height: 130%;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - -851px);
+  top: 5001.89px;
+  width: 174px;
+}
+.rectangle-3467893 {
+  background: #ddf3ff;
+  border-radius: 6px;
+  width: 80px;
+  height: 68px;
+  position: absolute;
+  left: 1701px;
+  top: 4976.89px;
+}
+.group-1577707633 {
+  width: 46.93px;
+  height: 44.94px;
+  position: static;
+}
+.group {
+  width: 1.91%;
+  height: 0.41%;
+  position: absolute;
+  right: 8.61%;
+  left: 89.48%;
+  bottom: 35.32%;
+  top: 64.27%;
+  overflow: visible;
+}
+.group2 {
+  width: 27.81px;
+  height: 29.2px;
+  position: static;
+}
+.vector10 {
+  width: 1.45%;
+  height: 0.38%;
+  position: absolute;
+  right: 8.08%;
+  left: 90.48%;
+  bottom: 35.52%;
+  top: 64.1%;
+  overflow: visible;
+}
+.group3 {
+  width: 10.3px;
+  height: 1.59px;
+  position: static;
+}
+.ellipse {
+  background: #162960;
+  border-radius: 50%;
+  width: 0.08%;
+  height: 0.02%;
+  position: absolute;
+  right: 8.53%;
+  left: 91.38%;
+  bottom: 35.75%;
+  top: 64.23%;
+}
+.ellipse2 {
+  background: #162960;
+  border-radius: 50%;
+  width: 0.08%;
+  height: 0.02%;
+  position: absolute;
+  right: 8.76%;
+  left: 91.16%;
+  bottom: 35.75%;
+  top: 64.23%;
+}
+.ellipse3 {
+  background: #162960;
+  border-radius: 50%;
+  width: 0.08%;
+  height: 0.02%;
+  position: absolute;
+  right: 8.99%;
+  left: 90.93%;
+  bottom: 35.75%;
+  top: 64.23%;
+}
+.group-1577707634 {
+  width: 1632px;
+  height: 80px;
+  position: static;
+}
+.check-it-out {
+  color: #000000;
+  text-align: center;
+  font-family: "Aeonik-Bold", sans-serif;
+  font-size: 80px;
+  line-height: 100%;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 816px);
+  top: 4808.89px;
+}
+.group-1577706951 {
+  width: 170px;
+  height: 80px;
+  position: static;
+}
+.group-1216257145 {
+  width: 80px;
+  height: 80px;
+  position: static;
+}
+.ellipse-5 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 1606px;
+  top: 4796.89px;
+}
+.vuesax-linear-arrow-right {
+  width: 35.75px;
+  height: 35.75px;
+  position: absolute;
+  left: 1664px;
+  top: 4818.89px;
+  overflow: visible;
+}
+.group-1216257144 {
+  width: 80px;
+  height: 80px;
+  position: static;
+}
+.ellipse-33 {
+  background: #152960;
+  border-radius: 50%;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 1776px;
+  top: 4796.89px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.vuesax-linear-arrow-right2 {
+  width: 35.75px;
+  height: 35.75px;
+  position: absolute;
+  left: 1718px;
+  top: 4818.89px;
+  overflow: visible;
+}
+.group-1577707582 {
+  opacity: 0.1;
+  position: absolute;
+  inset: 0;
+}
+.pattern {
+  width: 2365.21px;
+  height: 2011.63px;
+  position: static;
+}
+.group-21 {
+  width: 2011.63px;
+  height: 2365.21px;
+  position: static;
+}
+.frame {
+  border-radius: 50px;
+  width: 2399.92px;
+  height: 801.21px;
+  position: absolute;
+  left: -155px;
+  top: 3530.48px;
+  transform-origin: 0 0;
+  transform: rotate(-26.586deg) scale(0.944, 1.053);
+  overflow: hidden;
+}
+.group4 {
+  width: 100.04%;
+  height: 72.2%;
+  position: absolute;
+  right: -0.01%;
+  left: -0.03%;
+  bottom: 21.41%;
+  top: 6.39%;
+  overflow: visible;
+}
+.group5 {
+  opacity: 0.5;
+  width: 100.03%;
+  height: 100%;
+  position: absolute;
+  right: -0.01%;
+  left: -0.01%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+.group-1577707672 {
+  position: absolute;
+  inset: 0;
+}
+.group-1577707671 {
+  width: 1632px;
+  height: 395px;
+  position: static;
+}
+.group-1577706042 {
+  width: 528px;
+  height: 395px;
+  position: static;
+}
+.rectangle-29 {
+  background: #ffffff;
+  border-radius: 20px;
+  width: 528px;
+  height: 376px;
+  position: absolute;
+  left: 144px;
+  top: 2969px;
+  box-shadow: 37px 32px 250px 0px rgba(0, 0, 0, 0.1);
+}
+.group-1577706041 {
+  width: 408px;
+  height: 263px;
+  position: static;
+}
+.lorem-ipsum-is-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-industry-s-standard-dummy-text-ever-since-the-1500-s-when-an-unknown-printer-took-a-galley {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 756px);
+  top: 3085px;
+  width: 403px;
+}
+.tracy-worth {
+  color: #000000;
+  text-align: left;
+  font-family: "Aeonik-Bold", sans-serif;
+  font-size: 26px;
+  line-height: 130%;
+  font-weight: 700;
+  position: absolute;
+  left: 204px;
+  top: 3037px;
+}
+.group-1577706038 {
+  width: 406px;
+  height: 41px;
+  position: static;
+}
+.group-1577706037 {
+  width: 162px;
+  height: 41px;
+  position: static;
+}
+.google-1 {
+  width: 40px;
+  height: 41px;
+  position: absolute;
+  left: 204px;
+  top: 3259px;
+  overflow: visible;
+}
+.group-1577706036 {
+  width: 102px;
+  height: 39.58px;
+  position: static;
+}
+.google-rating {
+  color: #002435;
+  text-align: left;
+  font-family: "Aeonik-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 264px;
+  top: 3260px;
+}
+.group-1000005564 {
+  width: 4.9%;
+  height: 0.21%;
+  position: absolute;
+  right: 81.35%;
+  left: 13.75%;
+  bottom: 57.61%;
+  top: 42.18%;
+  overflow: visible;
+}
+._01-jan-2025 {
+  color: #484848;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 506px;
+  top: 3273px;
+}
+.line-29 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  opacity: 0.2;
+  width: 408px;
+  height: 0px;
+  position: absolute;
+  left: 204px;
+  top: 3229px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.group-1577706040 {
+  width: 3.65%;
+  height: 0.6%;
+  position: absolute;
+  right: 86.77%;
+  left: 9.58%;
+  bottom: 61.5%;
+  top: 37.9%;
+  overflow: visible;
+}
+.group-1577706043 {
+  width: 528px;
+  height: 395px;
+  position: static;
+}
+.rectangle-292 {
+  background: #fdca40;
+  border-radius: 20px;
+  width: 528px;
+  height: 376px;
+  position: absolute;
+  left: 696px;
+  top: 2969px;
+  box-shadow: 37px 32px 250px 0px rgba(244, 180, 37, 0.4);
+}
+.lorem-ipsum-is-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-industry-s-standard-dummy-text-ever-since-the-1500-s-when-an-unknown-printer-took-a-galley2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 204px);
+  top: 3085px;
+  width: 403px;
+}
+.andrea-cruz {
+  color: #000000;
+  text-align: left;
+  font-family: "Aeonik-Bold", sans-serif;
+  font-size: 26px;
+  line-height: 130%;
+  font-weight: 700;
+  position: absolute;
+  left: 756px;
+  top: 3037px;
+}
+.google-12 {
+  width: 40px;
+  height: 41px;
+  position: absolute;
+  left: 756px;
+  top: 3259px;
+  overflow: visible;
+}
+.google-rating2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Aeonik-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 816px;
+  top: 3260px;
+}
+.group-10000055642 {
+  width: 4.9%;
+  height: 0.21%;
+  position: absolute;
+  right: 52.6%;
+  left: 42.5%;
+  bottom: 57.61%;
+  top: 42.18%;
+  overflow: visible;
+}
+._06-jan-2025 {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 1053px;
+  top: 3273px;
+}
+.line-292 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #16295e;
+  border-width: 1px 0 0 0;
+  opacity: 0.2;
+  width: 408px;
+  height: 0px;
+  position: absolute;
+  left: 756px;
+  top: 3229px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.group-15777060402 {
+  width: 3.65%;
+  height: 0.6%;
+  position: absolute;
+  right: 58.02%;
+  left: 38.33%;
+  bottom: 61.5%;
+  top: 37.9%;
+  overflow: visible;
+}
+.group-1577706044 {
+  width: 528px;
+  height: 395px;
+  position: static;
+}
+.rectangle-293 {
+  background: #ffffff;
+  border-radius: 20px;
+  width: 528px;
+  height: 376px;
+  position: absolute;
+  left: 1248px;
+  top: 2969px;
+  box-shadow: 37px 32px 250px 0px rgba(0, 0, 0, 0.1);
+}
+.group-15777060412 {
+  width: 411px;
+  height: 263px;
+  position: static;
+}
+.lorem-ipsum-is-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-industry-s-standard-dummy-text-ever-since-the-1500-s-when-an-unknown-printer-took-a-galley3 {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -348px);
+  top: 3085px;
+  width: 408px;
+}
+.christopher-collins {
+  color: #000000;
+  text-align: left;
+  font-family: "Aeonik-Bold", sans-serif;
+  font-size: 26px;
+  line-height: 130%;
+  font-weight: 700;
+  position: absolute;
+  left: 1308px;
+  top: 3037px;
+}
+.group-15777060382 {
+  width: 411px;
+  height: 41px;
+  position: static;
+}
+.google-13 {
+  width: 40px;
+  height: 41px;
+  position: absolute;
+  left: 1308px;
+  top: 3259px;
+  overflow: visible;
+}
+.google-rating3 {
+  color: #002435;
+  text-align: left;
+  font-family: "Aeonik-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 1368px;
+  top: 3260px;
+}
+.group-10000055643 {
+  width: 4.9%;
+  height: 0.21%;
+  position: absolute;
+  right: 23.85%;
+  left: 71.25%;
+  bottom: 57.61%;
+  top: 42.18%;
+  overflow: visible;
+}
+._10-jan-2025 {
+  color: #484848;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 1609px;
+  top: 3273px;
+  width: 110px;
+  height: 14px;
+}
+.line-293 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  opacity: 0.2;
+  width: 408px;
+  height: 0px;
+  position: absolute;
+  left: 1308px;
+  top: 3229px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.group-15777060403 {
+  width: 3.65%;
+  height: 0.6%;
+  position: absolute;
+  right: 29.27%;
+  left: 67.08%;
+  bottom: 61.5%;
+  top: 37.9%;
+  overflow: visible;
+}
+.our-reviews {
+  color: #000000;
+  text-align: center;
+  font-family: "AeonikTrial-Bold", sans-serif;
+  font-size: 80px;
+  line-height: 100%;
+  font-weight: 700;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 2814px;
+}
+.group-1577707673 {
+  position: absolute;
+  inset: 0;
+}
+.login {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 1504px;
+  top: 92px;
+}
+.vuesax-linear-user {
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  left: 1467px;
+  top: 88px;
+}
+.vuesax-linear-user2 {
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.group-1577707678 {
+  position: absolute;
+  inset: 0;
+}
+.vector11 {
+  opacity: 0.2;
+  width: 474px;
+  height: 329px;
+  position: absolute;
+  left: calc(50% - 1010px);
+  top: 3508px;
+  overflow: visible;
+}
+.group-1577707652 {
+  width: 1578px;
+  height: 691px;
+  position: static;
+}
+.rectangle-868 {
+  background: linear-gradient(
+    90deg,
+    rgba(226, 241, 255, 1) 0%,
+    rgba(226, 241, 255, 0.1) 100%
+  );
+  border-radius: 20px;
+  border-width: 2px;
+  border-style: solid;
+  border-image: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  border-image-slice: 1;
+  opacity: 0.2;
+  width: 1548.18px;
+  height: 678px;
+  position: absolute;
+  left: 1749px;
+  top: 3751px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.mask-group {
+  width: 1550.48px;
+  height: 663px;
+  position: absolute;
+  left: 171px;
+  top: 3779px;
+  overflow: visible;
+}
+.group-1577707655 {
+  width: 1582px;
+  height: 137px;
+  position: static;
+}
+.group-1577707643 {
+  width: 326px;
+  height: 111px;
+  position: static;
+}
+.group-1577707642 {
+  width: 156px;
+  height: 78px;
+  position: static;
+}
+.vuesax-linear-user-square {
+  width: 43px;
+  height: 43px;
+  position: absolute;
+  left: 169px;
+  top: 4500px;
+}
+.vuesax-linear-user-square2 {
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.sign-up-free {
+  color: #000000;
+  text-align: left;
+  font-family: "Aeonik-Medium", sans-serif;
+  font-size: 24px;
+  line-height: 130%;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 791px);
+  top: 4561px;
+  width: 156px;
+}
+.create-an-account-in-less-than-5-minutes {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 791px);
+  top: 4598px;
+}
+.line-286 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 137px;
+  height: 0px;
+  position: absolute;
+  left: 661px;
+  top: 4492px;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.line-287 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 137px;
+  height: 0px;
+  position: absolute;
+  left: 1214px;
+  top: 4492px;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+._1 {
+  text-align: right;
+  font-family: "Aeonik-Bold", sans-serif;
+  font-size: 80px;
+  line-height: 100%;
+  font-weight: 700;
+  opacity: 0.4;
+  position: absolute;
+  left: calc(50% - 371px);
+  top: 4493px;
+  -webkit-text-stroke: 1px #000000;
+}
+._2 {
+  text-align: right;
+  font-family: "Aeonik-Bold", sans-serif;
+  font-size: 80px;
+  line-height: 100%;
+  font-weight: 700;
+  opacity: 0.4;
+  position: absolute;
+  left: calc(50% - -182px);
+  top: 4493px;
+  -webkit-text-stroke: 1px #000000;
+}
+._3 {
+  text-align: right;
+  font-family: "Aeonik-Bold", sans-serif;
+  font-size: 80px;
+  line-height: 100%;
+  font-weight: 700;
+  opacity: 0.4;
+  position: absolute;
+  left: calc(50% - -742px);
+  top: 4493px;
+  -webkit-text-stroke: 1px #000000;
+}
+.group-1577707653 {
+  width: 355px;
+  height: 111px;
+  position: static;
+}
+.vuesax-linear-user-square3 {
+  width: 51px;
+  height: 51px;
+  position: absolute;
+  left: 711px;
+  top: 4500px;
+}
+.vuesax-linear-user-square4 {
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.vuesax-linear-task-square {
+  width: 43px;
+  height: 43px;
+  position: absolute;
+  left: 711px;
+  top: 4500px;
+}
+.vuesax-linear-task-square2 {
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.post-a-job {
+  color: #000000;
+  text-align: left;
+  font-family: "Aeonik-Medium", sans-serif;
+  font-size: 24px;
+  line-height: 130%;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 249px);
+  top: 4561px;
+  width: 156px;
+}
+.your-job-ad-is-live-on-top-job-boards-instantly {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 249px);
+  top: 4598px;
+}
+.group-1577707654 {
+  width: 419px;
+  height: 111px;
+  position: static;
+}
+.group-15777076422 {
+  width: 225px;
+  height: 78px;
+  position: static;
+}
+.vuesax-linear-receipt-text {
+  width: 43px;
+  height: 43px;
+  position: absolute;
+  left: 1264px;
+  top: 4500px;
+}
+.vuesax-linear-receipt-text2 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+.review-applications {
+  color: #000000;
+  text-align: left;
+  font-family: "Aeonik-Medium", sans-serif;
+  font-size: 24px;
+  line-height: 130%;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - -304px);
+  top: 4561px;
+  width: 225px;
+}
+.manage-candidates-effortlessly-from-your-dashboard {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -304px);
+  top: 4598px;
+}
+.how-it-works {
+  color: #000000;
+  text-align: left;
+  font-family: "Aeonik-Bold", sans-serif;
+  font-size: 80px;
+  line-height: 100%;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 789px);
+  top: 3629px;
+}
+.group-15777076662 {
+  width: 232px;
+  height: 60px;
+  position: static;
+}
+.rectangle-34678782 {
+  background: #f4b425;
+  border-radius: 10px;
+  width: 232px;
+  height: 60px;
+  position: absolute;
+  left: 1524px;
+  top: 3627px;
+}
+.group-15777076663 {
+  width: 181px;
+  height: 30px;
+  position: static;
+}
+.start-hiring-now {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 1550px;
+  top: 3642px;
+}
+.group-15777075872 {
+  width: 26px;
+  height: 26px;
+  position: absolute;
+  left: 1705px;
+  top: 3644px;
+  overflow: visible;
+}
+.group-1577707698 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-34678783 {
+  background: #f4b425;
+  border-radius: 10px;
+  width: 232px;
+  height: 60px;
+  position: absolute;
+  left: 144px;
+  top: 803px;
+}
+.group-15777076664 {
+  width: 161px;
+  height: 30px;
+  position: static;
+}
+.start-free-trail {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 180px;
+  top: 818px;
+}
+.group-15777075873 {
+  width: 26px;
+  height: 26px;
+  position: absolute;
+  left: 315px;
+  top: 820px;
+  overflow: visible;
+}
+.hire-faster-with-ninja-gig-try-it-free {
+  color: #000000;
+  text-align: left;
+  font-family: "AeonikTrial-Bold", sans-serif;
+  font-size: 80px;
+  line-height: 100%;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 816px);
+  top: 308px;
+  width: 612px;
+}
+.group-1577707697 {
+  width: 421px;
+  height: 49px;
+  position: static;
+}
+.month {
+  color: #0089d1;
+  text-align: left;
+  font-family: "Satoshi-Medium", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 685px);
+  top: 745px;
+}
+.group-1577707590 {
+  width: 421px;
+  height: 49px;
+  position: static;
+}
+.unlimited-job-posts-no-hidden-fees {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 576px);
+  top: 718px;
+  width: 181px;
+}
+._49 {
+  color: #152960;
+  text-align: left;
+  font-family: "Aeonik-Bold", sans-serif;
+  font-size: 70px;
+  line-height: 100%;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 816px);
+  top: 714px;
+}
+.start-your-free-trial-now-and-see-why-employers-love-us {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Medium", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 816px);
+  top: 657px;
+}
+.post-jobs-to-12-top-job-boards-in-minutes-manage-applicants-effortlessly-and-save-big-all-for-just-49-month {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  right: 60.62%;
+  left: 7.5%;
+  width: 31.87%;
+  bottom: 92.07%;
+  top: 7.25%;
+  height: 0.68%;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.ninja-gig-01-22 {
+  width: 273px;
+  height: 78px;
+  position: absolute;
+  left: 144px;
+  top: 60px;
+}
+.ninja-gig-01-23 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  object-fit: cover;
+}
+.group-1577707700 {
+  position: absolute;
+  inset: 0;
+}
+.group-1577707699 {
+  width: 1217.72px;
+  height: 74.92px;
+  position: static;
+}
+.line-11 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  opacity: 0.3;
+  width: 63.53px;
+  height: 0px;
+  position: absolute;
+  left: 1062px;
+  top: 1128px;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.line-18 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  opacity: 0.3;
+  width: 63.53px;
+  height: 0px;
+  position: absolute;
+  left: 826px;
+  top: 1128px;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.line-13 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  opacity: 0.3;
+  width: 63.53px;
+  height: 0px;
+  position: absolute;
+  left: 1345px;
+  top: 1128px;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.line-19 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  opacity: 0.3;
+  width: 63.53px;
+  height: 0px;
+  position: absolute;
+  left: 1516px;
+  top: 1128px;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.line-20 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  opacity: 0.3;
+  width: 63.53px;
+  height: 0px;
+  position: absolute;
+  left: 1724px;
+  top: 1128px;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.group6 {
+  opacity: 0.7;
+  width: 4.07%;
+  height: 0.96%;
+  position: absolute;
+  right: 59.26%;
+  left: 36.67%;
+  bottom: 84.61%;
+  top: 14.43%;
+  overflow: visible;
+  mix-blend-mode: luminosity;
+}
+.serta-logo {
+  opacity: 0.6;
+  width: 83px;
+  height: 63px;
+  position: absolute;
+  left: 1389px;
+  top: 1129px;
+  mix-blend-mode: luminosity;
+  object-fit: cover;
+}
+.image-644 {
+  opacity: 0.6;
+  width: 10.13%;
+  height: 0.58%;
+  position: absolute;
+  right: 32.27%;
+  left: 57.6%;
+  bottom: 84.81%;
+  top: 14.61%;
+  mix-blend-mode: luminosity;
+  object-fit: cover;
+}
+._007-b-8-d-1-a-bc-9-e-402-e-b-29-f-ebb-72-b-801774 {
+  opacity: 0.6;
+  width: 147.67px;
+  height: 53.23px;
+  position: absolute;
+  left: 870px;
+  top: 1133px;
+  mix-blend-mode: luminosity;
+  object-fit: cover;
+}
+._9-df-165-ba-d-034-4-cc-7-b-9-d-8-060-c-7-dc-7787-d {
+  opacity: 0.6;
+  width: 120.19px;
+  height: 70.83px;
+  position: absolute;
+  left: 1560px;
+  top: 1125px;
+  mix-blend-mode: luminosity;
+  object-fit: cover;
+}
+._9-df-165-ba-d-034-4-cc-7-b-9-d-8-060-c-7-dc-7787-d2 {
+  opacity: 0.6;
+  width: 153.72px;
+  height: 51.89px;
+  position: absolute;
+  left: 1768px;
+  top: 1134px;
+  mix-blend-mode: luminosity;
+  object-fit: cover;
+}
+.businesses-that-depend-on-ninja-gig {
+  color: #000000;
+  text-align: left;
+  font-family: "Aeonik-Medium", sans-serif;
+  font-size: 40px;
+  line-height: 130%;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 816px);
+  top: 1120px;
+  width: 373px;
+}
+.group-1577707706 {
+  position: absolute;
+  inset: 0;
+}
+.ninja-gig-the-easy-affordable-way-to-hire {
+  color: #000000;
+  text-align: center;
+  font-family: "Aeonik-Bold", sans-serif;
+  font-size: 80px;
+  line-height: 100%;
+  font-weight: 700;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 6491.5px;
+  width: 1156px;
+}
+.group-1577707705 {
+  width: 1632px;
+  height: 306px;
+  position: static;
+}
+.group-15777076032 {
+  width: 528px;
+  height: 306px;
+  position: static;
+}
+.rectangle-34678882 {
+  background: #0386cb;
+  border-radius: 20px;
+  width: 528px;
+  height: 306px;
+  position: absolute;
+  left: 672px;
+  top: 6697.5px;
+  box-shadow: 37px 32px 250px 0px rgba(0, 0, 0, 0.1);
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.group-1577707703 {
+  width: 444px;
+  height: 45px;
+  position: static;
+}
+.group-1577707657 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 174px;
+  top: 6845.5px;
+  overflow: visible;
+}
+.your-jobs-hit-12-top-job-boards-instantly-no-extra-work-no-big-budget {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 746px);
+  top: 6850.5px;
+  width: 404px;
+}
+.group-1577707704 {
+  width: 401px;
+  height: 24px;
+  position: static;
+}
+.group-15777076572 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 174px;
+  top: 6910.5px;
+  overflow: visible;
+}
+.get-instant-email-alerts-when-applicants-apply {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 746px);
+  top: 6915.5px;
+}
+.massive-job-exposure-minimal-effort {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Aeonik-Bold", sans-serif;
+  font-size: 26px;
+  line-height: 130%;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 676px);
+  top: 6745.5px;
+  width: 291px;
+}
+.rectangle-34678892 {
+  background: #ffffff;
+  border-radius: 6px;
+  width: 80px;
+  height: 68px;
+  position: absolute;
+  left: 174px;
+  top: 6737.5px;
+}
+.vector12 {
+  width: 2.19%;
+  height: 0.54%;
+  position: absolute;
+  right: 87.76%;
+  left: 10.05%;
+  bottom: 12.73%;
+  top: 86.73%;
+  overflow: visible;
+}
+.group-1577707702 {
+  width: 528px;
+  height: 306px;
+  position: static;
+}
+.rectangle-34678883 {
+  background: #ffffff;
+  border-radius: 20px;
+  width: 528px;
+  height: 306px;
+  position: absolute;
+  left: 1224px;
+  top: 6697.5px;
+  box-shadow: 37px 32px 250px 0px rgba(0, 0, 0, 0.1);
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.group-15777076573 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 726px;
+  top: 6845.5px;
+  overflow: visible;
+}
+.create-job-postings-fast-with-custom-questions-requirements {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 194px);
+  top: 6850.5px;
+  width: 404px;
+}
+.group-15777077042 {
+  width: 353px;
+  height: 24px;
+  position: static;
+}
+.group-15777076574 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 726px;
+  top: 6910.5px;
+  overflow: visible;
+}
+.toss-in-a-job-video-link-to-grab-attention {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 194px);
+  top: 6915.5px;
+}
+.simple-custom-job-portal {
+  color: #000000;
+  text-align: left;
+  font-family: "Aeonik-Bold", sans-serif;
+  font-size: 26px;
+  line-height: 130%;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 124px);
+  top: 6745.5px;
+  width: 224px;
+}
+.rectangle-34678893 {
+  background: #ddf3ff;
+  border-radius: 6px;
+  width: 80px;
+  height: 68px;
+  position: absolute;
+  left: 726px;
+  top: 6737.5px;
+}
+.group-1577707721 {
+  width: 50px;
+  height: 40px;
+  position: absolute;
+  left: 741px;
+  top: 6751.5px;
+  overflow: visible;
+}
+.group-15777077032 {
+  width: 528px;
+  height: 306px;
+  position: static;
+}
+.rectangle-34678884 {
+  background: #ffffff;
+  border-radius: 20px;
+  width: 528px;
+  height: 306px;
+  position: absolute;
+  left: 1776px;
+  top: 6697.5px;
+  box-shadow: 37px 32px 250px 0px rgba(0, 0, 0, 0.1);
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.group-15777076575 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 1278px;
+  top: 6845.5px;
+  overflow: visible;
+}
+.job-fair-flyer-tiny-url-and-qr-code-to-pull-in-candidates-anywhere {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -358px);
+  top: 6850.5px;
+  width: 404px;
+}
+.group-15777077043 {
+  width: 358px;
+  height: 24px;
+  position: static;
+}
+.group-15777076576 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 1278px;
+  top: 6910.5px;
+  overflow: visible;
+}
+.all-included-no-upsells-no-hidden-fees {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -358px);
+  top: 6915.5px;
+}
+.low-cost-recruiting-boosters {
+  color: #000000;
+  text-align: left;
+  font-family: "Aeonik-Bold", sans-serif;
+  font-size: 26px;
+  line-height: 130%;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - -428px);
+  top: 6745.5px;
+  width: 291px;
+}
+.rectangle-34678894 {
+  background: #ddf3ff;
+  border-radius: 6px;
+  width: 80px;
+  height: 68px;
+  position: absolute;
+  left: 1278px;
+  top: 6737.5px;
+}
+.group-1577707707 {
+  width: 2.29%;
+  height: 0.57%;
+  position: absolute;
+  right: 30.21%;
+  left: 67.5%;
+  bottom: 12.71%;
+  top: 86.72%;
+  overflow: visible;
+}
+.group-1577706976 {
+  width: 168px;
+  height: 10px;
+  position: static;
+}
+.rectangle-23276 {
+  background: #fdca40;
+  border-radius: 50px;
+  width: 104px;
+  height: 10px;
+  position: absolute;
+  left: 876px;
+  top: 7063.5px;
+}
+.ellipse-3069 {
+  background: #c8c8c8;
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 986px;
+  top: 7063.5px;
+}
+.ellipse-3070 {
+  background: #c8c8c8;
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1002px;
+  top: 7063.5px;
+}
+.ellipse-3071 {
+  background: #c8c8c8;
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1018px;
+  top: 7063.5px;
+}
+.ellipse-3072 {
+  background: #c8c8c8;
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1034px;
+  top: 7063.5px;
+}
+.group-1577707708 {
+  width: 784px;
+  height: 591.55px;
+  position: absolute;
+  left: 976px;
+  top: 290px;
+}
+.rectangle-3467910 {
+  background: linear-gradient(
+    64.5deg,
+    rgba(226, 241, 255, 0.1) 0%,
+    rgba(226, 241, 255, 1) 100%
+  );
+  border-radius: 20px;
+  border-width: 2px;
+  border-style: solid;
+  border-image: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  border-image-slice: 1;
+  width: 97.45%;
+  height: 96.53%;
+  position: absolute;
+  right: 0%;
+  left: 2.55%;
+  bottom: 3.47%;
+  top: 0%;
+}
+.mask-group2 {
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 21px;
+  overflow: visible;
+}
+.group-8 {
+  width: 24.02%;
+  height: 31.83%;
+  position: absolute;
+  right: 39.25%;
+  left: 36.73%;
+  bottom: 32.16%;
+  top: 36.01%;
+  overflow: visible;
+}
+.group-1577707744 {
+  position: absolute;
+  inset: 0;
+}
+.features-that-make-hiring-simple {
+  color: #000000;
+  text-align: center;
+  font-family: "Aeonik-Bold", sans-serif;
+  font-size: 80px;
+  line-height: 100%;
+  font-weight: 700;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 5596px;
+  width: 804px;
+}
+.group-1577707743 {
+  width: 1632px;
+  height: 389px;
+  position: static;
+}
+.group-1577707739 {
+  width: 390px;
+  height: 389px;
+  position: static;
+}
+.rectangle-294 {
+  background: #ffffff;
+  border-radius: 20px;
+  width: 390px;
+  height: 389px;
+  position: absolute;
+  left: 144px;
+  top: 5812px;
+  box-shadow: 37px 32px 250px 0px rgba(0, 0, 0, 0.1);
+}
+.rectangle-34678895 {
+  background: #ddf3ff;
+  border-radius: 6px;
+  width: 108px;
+  height: 92px;
+  position: absolute;
+  left: 174px;
+  top: 5852px;
+}
+.layer-1 {
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  left: 193px;
+  top: 5863px;
+  overflow: visible;
+}
+.group-1577707728 {
+  width: 325px;
+  height: 161px;
+  position: static;
+}
+.post-jobs-everywhere-in-minutes {
+  color: #000000;
+  text-align: left;
+  font-family: "Aeonik-Medium", sans-serif;
+  font-size: 26px;
+  line-height: 120%;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 786px);
+  top: 5978px;
+  width: 280px;
+}
+.group-1577707727 {
+  width: 325px;
+  height: 88px;
+  position: static;
+}
+.group-1577707711 {
+  width: 325px;
+  height: 46px;
+  position: static;
+}
+.group-15777076577 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 174px;
+  top: 6051px;
+  overflow: visible;
+}
+.publish-openings-on-multiple-job-boards-with-just-one-click {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 746px);
+  top: 6057px;
+  width: 285px;
+}
+.group-1577707712 {
+  width: 273px;
+  height: 24px;
+  position: static;
+}
+.group-1577707658 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 174px;
+  top: 6115px;
+  overflow: visible;
+}
+.save-templates-for-future-use {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 746px);
+  top: 6121px;
+}
+.group-1577707741 {
+  width: 390px;
+  height: 389px;
+  position: static;
+}
+.rectangle-295 {
+  background: #ffffff;
+  border-radius: 20px;
+  width: 390px;
+  height: 389px;
+  position: absolute;
+  left: 972px;
+  top: 5812px;
+  box-shadow: 37px 32px 250px 0px rgba(0, 0, 0, 0.1);
+}
+.rectangle-34678896 {
+  background: #ddf3ff;
+  border-radius: 6px;
+  width: 108px;
+  height: 92px;
+  position: absolute;
+  left: 1002px;
+  top: 5852px;
+}
+.frame2 {
+  width: 82px;
+  height: 82px;
+  position: absolute;
+  left: 1015px;
+  top: 5857px;
+  overflow: hidden;
+}
+.layer-12 {
+  height: auto;
+  position: absolute;
+  left: 14.04px;
+  top: 11.6px;
+  overflow: visible;
+}
+.layer-2 {
+  height: auto;
+  position: absolute;
+  left: 21.41px;
+  top: 38.57px;
+  overflow: visible;
+}
+.layer-13 {
+  height: auto;
+  position: absolute;
+  left: 14.04px;
+  top: 11.6px;
+  overflow: visible;
+}
+.layer-22 {
+  height: auto;
+  position: absolute;
+  left: 21.41px;
+  top: 38.57px;
+  overflow: visible;
+}
+.group-15777077282 {
+  width: 325px;
+  height: 183px;
+  position: static;
+}
+.affordable-and-flexible-plans {
+  color: #000000;
+  text-align: left;
+  font-family: "Aeonik-Medium", sans-serif;
+  font-size: 26px;
+  line-height: 120%;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - -42px);
+  top: 5978px;
+  width: 280px;
+}
+.group-15777077272 {
+  width: 325px;
+  height: 110px;
+  position: static;
+}
+.group-15777076578 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 1002px;
+  top: 6051px;
+  overflow: visible;
+}
+.the-least-expensive-hiring-platform-in-the-industry {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -82px);
+  top: 6057px;
+  width: 285px;
+}
+.group-15777077122 {
+  width: 318px;
+  height: 46px;
+  position: static;
+}
+.group-15777076582 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 1002px;
+  top: 6115px;
+  overflow: visible;
+}
+.month-to-month-subscriptions-with-no-long-term-contracts {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -82px);
+  top: 6121px;
+  width: 278px;
+}
+.group-1577707740 {
+  width: 390px;
+  height: 389px;
+  position: static;
+}
+.rectangle-296 {
+  background: #ffffff;
+  border-radius: 20px;
+  width: 390px;
+  height: 389px;
+  position: absolute;
+  left: 558px;
+  top: 5812px;
+  box-shadow: 37px 32px 250px 0px rgba(0, 0, 0, 0.1);
+}
+.rectangle-34678897 {
+  background: #ddf3ff;
+  border-radius: 6px;
+  width: 108px;
+  height: 92px;
+  position: absolute;
+  left: 588px;
+  top: 5852px;
+}
+.layer-14 {
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  left: 607px;
+  top: 5863px;
+  overflow: visible;
+}
+.manage-applicants-with-ease {
+  color: #000000;
+  text-align: left;
+  font-family: "Aeonik-Medium", sans-serif;
+  font-size: 26px;
+  line-height: 120%;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 372px);
+  top: 5978px;
+  width: 280px;
+}
+.group-15777076579 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 588px;
+  top: 6051px;
+  overflow: visible;
+}
+.keep-all-applications-in-one-place-organized-and-searchable {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 332px);
+  top: 6057px;
+  width: 285px;
+}
+.group-15777077123 {
+  width: 292px;
+  height: 46px;
+  position: static;
+}
+.group-15777076583 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 588px;
+  top: 6115px;
+  overflow: visible;
+}
+.save-time-with-filters-to-quickly-identify-top-candidates {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 332px);
+  top: 6121px;
+  width: 252px;
+}
+.group-1577707742 {
+  width: 390px;
+  height: 389px;
+  position: static;
+}
+.rectangle-297 {
+  background: #ffffff;
+  border-radius: 20px;
+  width: 390px;
+  height: 389px;
+  position: absolute;
+  left: 1386px;
+  top: 5812px;
+  box-shadow: 37px 32px 250px 0px rgba(0, 0, 0, 0.1);
+}
+.rectangle-34678898 {
+  background: #ddf3ff;
+  border-radius: 6px;
+  width: 108px;
+  height: 92px;
+  position: absolute;
+  left: 1416px;
+  top: 5852px;
+}
+.frame3 {
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  left: 1435px;
+  top: 5863px;
+  overflow: hidden;
+}
+.layer-98 {
+  width: 89.84%;
+  height: 89.84%;
+  position: absolute;
+  right: 5.08%;
+  left: 5.08%;
+  bottom: 5.08%;
+  top: 5.08%;
+  overflow: visible;
+}
+.group-15777077283 {
+  width: 347px;
+  height: 161px;
+  position: static;
+}
+.user-friendly-for-everyone {
+  color: #000000;
+  text-align: left;
+  font-family: "Aeonik-Medium", sans-serif;
+  font-size: 26px;
+  line-height: 120%;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - -456px);
+  top: 5978px;
+  width: 280px;
+}
+.group-15777077273 {
+  width: 347px;
+  height: 88px;
+  position: static;
+}
+.group-157770765710 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 1416px;
+  top: 6051px;
+  overflow: visible;
+}
+.no-tech-skills-required-just-log-in-post-and-hire {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -496px);
+  top: 6057px;
+  width: 285px;
+}
+.group-15777077124 {
+  width: 347px;
+  height: 24px;
+  position: static;
+}
+.group-15777076584 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 1416px;
+  top: 6115px;
+  overflow: visible;
+}
+.perfect-for-small-to-medium-businesses {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -496px);
+  top: 6121px;
+}
+.group-1577707756 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-34678923 {
+  background: linear-gradient(
+    86.73deg,
+    rgba(27, 141, 255, 1) 0%,
+    rgba(46, 178, 246, 1) 100%
+  );
+  border-radius: 20px;
+  opacity: 0.2;
+  width: 1632px;
+  height: 390px;
+  position: absolute;
+  left: calc(50% - -816px);
+  top: 1350px;
+  box-shadow: 37px 32px 250px 0px rgba(0, 0, 0, 0.1);
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.group-1577707753 {
+  width: 356px;
+  height: 285px;
+  position: static;
+}
+.over-1-4-million-applications-processed {
+  color: #000000;
+  text-align: left;
+  font-family: "Aeonik-Bold", sans-serif;
+  font-size: 30px;
+  line-height: 130%;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 702px);
+  top: 1548px;
+  width: 342px;
+}
+.helping-job-seekers-and-businesses-connect {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 130%;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 702px);
+  top: 1640px;
+  width: 356px;
+}
+.group-1577707752 {
+  width: 122px;
+  height: 100px;
+  position: static;
+}
+.rectangle-34678872 {
+  background: #aedefc;
+  border-radius: 6px;
+  opacity: 0.8;
+  width: 122px;
+  height: 100px;
+  position: absolute;
+  left: 258px;
+  top: 1403px;
+}
+.group-1577707748 {
+  width: 3.12%;
+  height: 0.87%;
+  position: absolute;
+  right: 81.83%;
+  left: 15.05%;
+  bottom: 80.89%;
+  top: 18.23%;
+  overflow: visible;
+}
+.group-1577707755 {
+  width: 247px;
+  height: 288px;
+  position: static;
+}
+.a-proven-track-record-of-excellence-since-2014 {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -445px);
+  top: 1636px;
+  width: 247px;
+}
+._11-years-in-business {
+  color: #000000;
+  text-align: left;
+  font-family: "Aeonik-Bold", sans-serif;
+  font-size: 30px;
+  line-height: 130%;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - -445px);
+  top: 1546px;
+  width: 152px;
+}
+.group-1577707750 {
+  width: 122px;
+  height: 100px;
+  position: absolute;
+  left: 1405px;
+  top: 1401px;
+  overflow: visible;
+}
+.group-1577707754 {
+  width: 357px;
+  height: 285px;
+  position: static;
+}
+.empowering-companies-of-all-sizes-with-easy-hiring-solutions {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 130%;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 129px);
+  top: 1640px;
+  width: 357px;
+}
+.trusted-by-22-000-businesses {
+  color: #000000;
+  text-align: left;
+  font-family: "Aeonik-Bold", sans-serif;
+  font-size: 30px;
+  line-height: 130%;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 129px);
+  top: 1548px;
+  width: 295px;
+}
+.group-1577707751 {
+  width: 122px;
+  height: 100px;
+  position: static;
+}
+.rectangle-34678932 {
+  background: #aedefc;
+  border-radius: 6px;
+  opacity: 0.8;
+  width: 122px;
+  height: 100px;
+  position: absolute;
+  left: 831px;
+  top: 1403px;
+}
+.group-1577707749 {
+  width: 4.27%;
+  height: 0.7%;
+  position: absolute;
+  right: 51.41%;
+  left: 44.32%;
+  bottom: 80.98%;
+  top: 18.32%;
+  overflow: visible;
+}
+.group-1577707763 {
+  position: absolute;
+  inset: 0;
+}
+.group-1577707766 {
+  width: 1467px;
+  height: 748px;
+  position: static;
+}
+.ninja-gig-dashboard-1 {
+  border-radius: 10px;
+  width: 613px;
+  height: 748px;
+  position: absolute;
+  left: 227px;
+  top: 1916px;
+  box-shadow: 37px 32px 250px 0px rgba(0, 0, 0, 0.1);
+  object-fit: cover;
+  aspect-ratio: 613/748;
+}
+.group-1577707765 {
+  width: 647px;
+  height: 586px;
+  position: static;
+}
+.hiring-made-easy {
+  color: #000000;
+  text-align: left;
+  font-family: "Aeonik-Bold", sans-serif;
+  font-size: 80px;
+  line-height: 100%;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - -87px);
+  top: 1997px;
+}
+.group-1577707674 {
+  width: 419px;
+  height: 60px;
+  position: static;
+}
+.group-15777075882 {
+  width: 177px;
+  height: 60px;
+  position: static;
+}
+.rectangle-34678784 {
+  background: #162960;
+  border-radius: 10px;
+  width: 177px;
+  height: 60px;
+  position: absolute;
+  left: 1047px;
+  top: 2523px;
+}
+.group-15777076665 {
+  width: 139px;
+  height: 30px;
+  position: static;
+}
+.learn-more {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Satoshi-Medium", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 500;
+  position: absolute;
+  left: 1066px;
+  top: 2538px;
+}
+.group-15777075874 {
+  width: 26px;
+  height: 26px;
+  position: absolute;
+  left: 1179px;
+  top: 2540px;
+  overflow: visible;
+}
+.rectangle-34678785 {
+  background: #f4b425;
+  border-radius: 10px;
+  width: 232px;
+  height: 60px;
+  position: absolute;
+  left: 1234px;
+  top: 2523px;
+}
+.start-free-trail2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 1270px;
+  top: 2538px;
+}
+.group-15777075875 {
+  width: 26px;
+  height: 26px;
+  position: absolute;
+  left: 1405px;
+  top: 2540px;
+  overflow: visible;
+}
+.group-1577707764 {
+  width: 568px;
+  height: 350px;
+  position: static;
+}
+.group-1577707758 {
+  width: 383px;
+  height: 38px;
+  position: static;
+}
+.easily-customized-portal {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 30px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -155px);
+  top: 2434px;
+}
+.group-1577707757 {
+  width: 1.98%;
+  height: 0.49%;
+  position: absolute;
+  right: 43.49%;
+  left: 54.53%;
+  bottom: 68.35%;
+  top: 31.16%;
+  overflow: visible;
+}
+.group-1577707760 {
+  width: 568px;
+  height: 38px;
+  position: static;
+}
+.job-posts-to-12-sites-indeed-more {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 30px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -155px);
+  top: 2200px;
+}
+.group-15777077572 {
+  width: 1.98%;
+  height: 0.49%;
+  position: absolute;
+  right: 43.49%;
+  left: 54.53%;
+  bottom: 71.36%;
+  top: 28.15%;
+  overflow: visible;
+}
+.group-1577707759 {
+  width: 394px;
+  height: 38px;
+  position: static;
+}
+.create-a-post-job-quickly {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 30px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -155px);
+  top: 2122px;
+}
+.group-15777077573 {
+  width: 1.98%;
+  height: 0.49%;
+  position: absolute;
+  right: 43.49%;
+  left: 54.53%;
+  bottom: 72.36%;
+  top: 27.15%;
+  overflow: visible;
+}
+.group-1577707761 {
+  width: 407px;
+  height: 38px;
+  position: static;
+}
+.manage-applications-easy {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 30px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -155px);
+  top: 2278px;
+}
+.group-15777077574 {
+  width: 1.98%;
+  height: 0.49%;
+  position: absolute;
+  right: 43.49%;
+  left: 54.53%;
+  bottom: 70.36%;
+  top: 29.15%;
+  overflow: visible;
+}
+.group-1577707762 {
+  width: 433px;
+  height: 38px;
+  position: static;
+}
+.comunicate-with-applicants {
+  color: #000000;
+  text-align: left;
+  font-family: "Satoshi-Regular", sans-serif;
+  font-size: 30px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -155px);
+  top: 2356px;
+}
+.group-15777077575 {
+  width: 1.98%;
+  height: 0.49%;
+  position: absolute;
+  right: 43.49%;
+  left: 54.53%;
+  bottom: 69.36%;
+  top: 30.16%;
+  overflow: visible;
+}
